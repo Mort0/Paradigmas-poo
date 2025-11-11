@@ -6,4 +6,4 @@ Descripcion breve del ejercicio 1: Se emplea una super clase "usuario" para opti
 
 Descripcion breve del ejercicio 2: Se emplea una super clase "animal" para optimizar lo maximo posible la gestion de registro de direntes animales de un zoologico por parte de un cuidador.
 
-Trabajo semana 1 Diego Sanabria.pdf
+[Trabajo semana 1 Diego Sanabria.pdf](https://github.com/Mort0/Paradigmas-poo/blob/main/Trabajo%20semana%201%20Diego%20Sanabria.pdf)
